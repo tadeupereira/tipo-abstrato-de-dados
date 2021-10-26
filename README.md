@@ -1,2 +1,2 @@
 # Tipo abstrato de dados
-Códigos-fontes desenvolvidos para apresentação em aula
+Códigos-fonte desenvolvidos para apresentação em aula
